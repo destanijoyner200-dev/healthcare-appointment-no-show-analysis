@@ -1,0 +1,21 @@
+AppointmentID,PatientName,Age,Gender,Diagnosis,AppointmentDate,DayOfWeek,Cost,NoShow
+1,John Smith,45,Male,Hypertension,2/2/2026,Monday,150,No
+2,Maria Lopez,29,Female,Asthma,2/3/2026,Tuesday,200,Yes
+3,James Brown,60,Male,Diabetes,2/4/2026,Wednesday,300,No
+4,Ava Johnson,34,Female,Flu,2/5/2026,Thursday,120,No
+5,Liam Davis,52,Male,Hypertension,2/6/2026,Friday,180,Yes
+6,Noah Wilson,41,Male,Diabetes,2/9/2026,Monday,250,No
+7,Emma Taylor,37,Female,Asthma,2/10/2026,Tuesday,210,Yes
+8,Sophia Green,48,Female,Hypertension,2/11/2026,Wednesday,220,No
+9,Ethan White,55,Male,Diabetes,2/12/2026,Thursday,275,Yes
+10,Olivia Harris,62,Female,Hypertension,2/13/2026,Friday,240,No
+11,Elijah Clark,50,Male,Diabetes,2/16/2026,Monday,310,Yes
+12,Isabella Lewis,27,Female,Flu,2/17/2026,Tuesday,130,No
+13,Mason Walker,39,Male,Asthma,2/18/2026,Wednesday,220,Yes
+14,Sophia Hall,44,Female,Hypertension,2/19/2026,Thursday,260,No
+15,James Allen,67,Male,Diabetes,2/20/2026,Friday,400,No
+16,Charlotte Young,31,Female,Asthma,2/23/2026,Monday,210,Yes
+17,Benjamin King,55,Male,Hypertension,2/24/2026,Tuesday,275,No
+18,Amelia Scott,36,Female,Flu,2/25/2026,Wednesday,150,No
+19,Lucas Green,48,Male,Diabetes,2/26/2026,Thursday,320,Yes
+20,Harper Adams,40,Female,Asthma,2/27/2026,Friday,205,No
